@@ -10,5 +10,3 @@ The /output folder stores the result sets of the tests applied to validate the m
  - standard_baseline/: results from benchmarking synthetic data with ideal structural alignment (theoretical baseline).
  - extreme_baseline/: results from benchmarking synthetic stress-test data injected with structural noise and severe process anomalies.
  - sensitivity_analysis/: evaluation of the Project Coherence Class assignment under varying quantile configurations, demonstrating that model performance and diagnostic stability are independent of threshold selection.
-
- - 
